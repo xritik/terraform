@@ -60,5 +60,4 @@ resource "aws_vpc_security_group_ingress_rule" "allow_all_traffic_ipv4" {
 
 
 
-
-# # task:-     ek hi resource k use krke multiple port allow kaise kre 
+# # task:-     ek hi resource k use krke multiple port allow kaise kre
